@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ReactJs
+- 🌱 I’m currently learning C#
 - 👀 I’m interested in Front-end Development
 - 📫 How to reach me: ruanamaral40@gmail.com
 
